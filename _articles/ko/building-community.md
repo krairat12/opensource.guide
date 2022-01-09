@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source”](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source”](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -169,7 +169,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 * 여러분의 프로젝트가 GitHub에서 진행되고 있다면 **프로젝트를 개인 계정에서 [조직 계정](https://help.github.com/articles/creating-a-new-organization-account/)으로 옮기고** 예비 관리자를 등록하세요. 조직 계정을 활용하면 외부의 협력자들과 함께 일하기 더 쉽습니다.
 
-현실에서 [대부분의 프로젝트](https://peerj.com/preprints/1233.pdf)는 한두 명의 관리자가 거의 모든 일을 담당합니다. 여러분의 프로젝트와 커뮤니티가 성장할수록 위 방법이 도움을 구하기 좋습니다.
+현실에서 [대부분의 프로젝트](https://peerj.com/preprints/1233/)는 한두 명의 관리자가 거의 모든 일을 담당합니다. 여러분의 프로젝트와 커뮤니티가 성장할수록 위 방법이 도움을 구하기 좋습니다.
 
 항상 도움을 줄 수 있는 사람을 찾을 수 있는 것은 아니지만, 신호를 보내는 것은 그럴 확률을 높입니다. 여러분이 일찍 시작할수록 사람들은 더 빨리 도울 수 있습니다.
 
@@ -199,7 +199,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way”](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way”](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

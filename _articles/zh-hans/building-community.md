@@ -56,7 +56,7 @@ redirect_from: /zh-cn/building-community/
   你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["让开源可持续发展"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["让开源可持续发展"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -84,7 +84,7 @@ redirect_from: /zh-cn/building-community/
 
 ![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[一份Mozilla研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
+[Mozilla的一份研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
 
 与项目有关的话题也可能发生在互联网的其它地方，例如Stack Overflow，Twitter，或者Reddit。你可以在像这样的一些网站设置通知，这样当有人提及项目时，可以即时的收到提醒。
 
@@ -203,7 +203,7 @@ redirect_from: /zh-cn/building-community/
   作为一名维护者，尊重你们的贡献者非常重要。他们经常处理一些你们描述亲切的事情。
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["保持和善，要么滚蛋"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["保持和善，要么滚蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
